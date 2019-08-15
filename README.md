@@ -2,4 +2,4 @@
 
 Hello everyone,
 
-Actually I'm practicing C#
+Actually I'm practicing C#, and learning of GitHub.
