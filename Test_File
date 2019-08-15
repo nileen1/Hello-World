@@ -1,0 +1,12 @@
+#using System
+
+namespace Test
+{
+  Class Testing()
+  {
+    static Void Main()
+    {
+      Console.Write("Hello World");
+    }
+  }
+}
