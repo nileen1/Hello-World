@@ -1,2 +1,5 @@
 # Hello-World
-first repository
+
+Hello everyone,
+
+Actually I'm practicing C#
